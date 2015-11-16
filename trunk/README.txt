@@ -1,10 +1,9 @@
 === Simple Staff List ===
 Contributors: brettshumaker
-Donate link: http://brettshumaker.com/
 Tags: staff list, staff directory, employee list, staff, employee, employees
 Requires at least: 3.0
-Tested up to: 4.1.1
-Stable tag: 1.16
+Tested up to: 4.3.1
+Stable tag: 1.17
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +47,10 @@ Alright, here's a few things to try:
 5. Templates screen 2
 
 == Changelog ==
+
+= 1.17 =
+* Things are happening! Hey guys, I'll be rewriting this plugin with help from some other developers in the [WPNashville Community](http://wpnashville.com). Want to be involved and give some input on the direction of Simple Staff List? Fill out our [survey](http://brettshumaker.com/simple-staff-list-survey/)!
+* UPDATED: Moved plugin to class structure based on [The WordPress Plugin Boilerplate](http://wppb.io)
 
 = 1.16 =
 * UPDATED: Added translation support. (Thanks to grappler on GitHub)
